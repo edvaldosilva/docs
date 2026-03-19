@@ -1,6 +1,6 @@
 # 📚 docs
 
-Repositório pessoal de documentação, reunindo dicas, tutoriais e anotações sobre diversos temas de tecnologia e desenvolvimento de software.
+Repositório para tutoriais, dicas e anotações sobre diversos temas de tecnologia e desenvolvimento de software.
 
 ## Sobre este repositório
 
